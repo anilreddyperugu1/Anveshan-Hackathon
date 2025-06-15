@@ -2,9 +2,7 @@
 
 This project builds a **binary classification model** to identify potentially fraudulent job postings using **natural language processing (NLP)** and **machine learning**. It was developed as part of a hackathon challenge.
 
---- **VIDEO EXPLANATION LINK**: https://drive.google.com/file/d/1l_xD5HBzzvNJ61ALtug6PqFOIazPBVuC/view?usp=drive_link
-![image](https://github.com/user-attachments/assets/1c8773b6-5b3e-439e-b0bc-e5761fd376fc)
-
+--- **VIDEO EXPLANATION LINK**: https://drive.google.com/file/d/1l_xD5HBzzvNJ61ALtug6PqFOIazPBVuC/view
 
 
 ## 📚 Index
