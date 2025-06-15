@@ -4,6 +4,8 @@ This project builds a **binary classification model** to identify potentially fr
 
 --- **VIDEO EXPLANATION LINK**: https://drive.google.com/file/d/1l_xD5HBzzvNJ61ALtug6PqFOIazPBVuC/view
 
+---  **WORD DOCUMENT LINK**: https://docs.google.com/document/d/1HbYz7ulxUDE8Nv_RivxKMacE8_KNMfIj/edit?usp=sharing&ouid=102351064027616846328&rtpof=true&sd=true
+
 
 ## 📚 Index
 
