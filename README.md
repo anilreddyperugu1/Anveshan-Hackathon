@@ -2,7 +2,10 @@
 
 This project builds a **binary classification model** to identify potentially fraudulent job postings using **natural language processing (NLP)** and **machine learning**. It was developed as part of a hackathon challenge.
 
----
+--- **VIDEO EXPLANATION LINK**: https://drive.google.com/file/d/1l_xD5HBzzvNJ61ALtug6PqFOIazPBVuC/view?usp=drive_link
+![image](https://github.com/user-attachments/assets/1c8773b6-5b3e-439e-b0bc-e5761fd376fc)
+
+
 
 ## 📚 Index
 
@@ -105,7 +108,7 @@ Model used: XGBoost with TF-IDF features
 🧠 **Author Notes**
 This project was developed as part of a machine learning hackathon. The goal was to demonstrate end-to-end modeling from text cleaning to model deployment.
 
-📫 Feel free to fork or contribute!
+📫 Feel free to fork or contribute
 
 ### ✅ `requirements.txt` example:
 pandas
